@@ -15,8 +15,8 @@
 <hr>
 
 ### Crazy github stats
-![Top Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=InstaRik&show_icons=true&theme=gruvbox&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InstaRik&show_icons=true&theme=gruvbox&count_private=true)
+[![Top Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=InstaRik&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/InstaRik)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InstaRik&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/InstaRik)
 
 <!--
 
