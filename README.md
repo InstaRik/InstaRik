@@ -5,8 +5,10 @@
 📫 Hey Rik, I want to contact you about .... <br>
 📫 You can contact me on Discord. My username & tag is: InstaRik//Rik#0836
 
-### 🌐 Site: [instarik.nl](https://instarik.nl/)
+🌐 Site: [instarik.nl](https://instarik.nl/)
 
+### My discord profile
+[![Discord Presence](https://lanyard.cnrad.dev/api/414840396502532098)](https://discord.com/users/414840396502532098)
 
 <!--
 
