@@ -2,7 +2,7 @@
 
 ### I am Rik, a starting developer located in the Netherlands.
 
-📫 Hey Rik, I want to contact you about ....
+📫 Hey Rik, I want to contact you about .... <br>
 📫 You can contact me on Discord. My username & tag is: InstaRik//Rik#0836
 
 ### 🌐 Site: [instarik.nl](https://instarik.nl/)
