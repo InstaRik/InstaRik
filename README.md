@@ -3,9 +3,11 @@
 ### I am Rik, a starting developer located in the Netherlands.
 
 📫 Hey Rik, I want to contact you about .... <br>
-📫 You can contact me on Discord. My username & tag is: InstaRik//Rik#0836
+📫 You can contact me on Discord. My username & tag is: InstaRik//Rik#0836 <br>
 
-🌐 Site: [instarik.nl](https://instarik.nl/)
+🔭 I’m currently working on (SprokkelCraft)[https://discord.gg/2WAYjf7fVG] <br>
+
+🌱 I’m currently learning How to make android apps.
 
 <hr>
 
