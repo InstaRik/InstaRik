@@ -7,8 +7,6 @@
 
 🔭 I’m currently working on [SprokkelCraft](https://discord.gg/2WAYjf7fVG) <br>
 
-🌱 I’m currently learning How to make android apps.
-
 <hr>
 
 ### My discord profile
