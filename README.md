@@ -5,7 +5,7 @@
 📫 Hey Rik, I want to contact you about .... <br>
 📫 You can contact me on Discord. My username & tag is: InstaRik//Rik#0836 <br>
 
-🔭 I’m currently working on [SprokkelCraft](https://discord.gg/2WAYjf7fVG) <br>
+🔭 I’m currently working on [SprokkelCraft](https://discord.gg/2WAYjf7fVG) & [Friesland Roleplay](https://discord.gg/H4dmh5EaeW)<br>
 
 <hr>
 
