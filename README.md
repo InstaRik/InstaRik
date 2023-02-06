@@ -3,7 +3,7 @@
 ### I am Rik, a starting developer located in the Netherlands.
 
 📫 Hey Rik, I want to contact you about .... <br>
-📫 You can contact me on Discord. My username & tag is: InstaRik//Rik#0836 <br>
+📫 You can contact me on Discord. You can join my discord https://discord.gg/taN23VMqaT <br>
 
 🔭 I’m currently working on [SprokkelCraft](https://discord.gg/2WAYjf7fVG) & [ThuusCarnaval](https://discord.gg/kx8DmaugTu)
 
