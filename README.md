@@ -5,7 +5,11 @@
 📫 Hey Rik, I want to contact you about .... <br>
 📫 You can contact me on Discord. You can join my discord https://discord.gg/taN23VMqaT <br>
 
-🔭 I’m currently working on [SprokkelCraft](https://discord.gg/2WAYjf7fVG) & [ThuusCarnaval](https://discord.gg/kx8DmaugTu)
+<hr>
+
+## I'm working on...
+- [SprokkelCraft](https://discord.gg/2WAYjf7fVG)
+- [WonderParkMC](https://discord.gg/wonderparkmc)
 
 <hr>
 
