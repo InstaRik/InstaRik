@@ -9,7 +9,7 @@
 
 ## I'm working on...
 - [SprokkelCraft](https://discord.gg/2WAYjf7fVG)
-- [WonderParkMC](https://discord.gg/wonderparkmc)
+- [WonderParkMC](https://discord.gg/QX3znrVxg6)
 
 <hr>
 
