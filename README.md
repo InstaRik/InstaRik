@@ -2,14 +2,12 @@
 
 ### I am Rik, a starting developer located in the Netherlands.
 
-📫 Hey Rik, I want to contact you about .... <br>
-📫 You can contact me on Discord. You can join my discord https://discord.gg/taN23VMqaT <br>
+📫 You can contact me on discord my user is: instarik <br>
 
 <hr>
 
 ## I'm working on...
 - [SprokkelCraft](https://discord.gg/2WAYjf7fVG)
-- [WonderParkMC](https://discord.gg/wonderparkmc)
 
 <hr>
 
