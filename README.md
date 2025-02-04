@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Rik!
+I am a learning developer, currently studying Software Development.
 
-### I am Rik, a starting developer located in the Netherlands.
-
+### Contact
 📫 You can contact me on discord my user is: instarik <br>
 
 <hr>
