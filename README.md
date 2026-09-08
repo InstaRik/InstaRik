@@ -1,13 +1,11 @@
 ### Hi there 👋 I am Rik!
-I am a learning developer, currently studying Software Development.
+I'm currently employed at Solvware B.V. as Manager/Coordinating Developer
 
 ### Contact
 📫 You can contact me on discord my user is: instarik <br>
+Or via mail: [contact@rikvoogd.dev](mailto:contact@rikvoogd.dev)
 
 <hr>
-
-## I'm working on...
-- [SprokkelCraft](https://discord.gg/2WAYjf7fVG)
 
 <hr>
 
